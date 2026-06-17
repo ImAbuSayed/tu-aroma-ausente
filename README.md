@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aroma-ausente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tu aroma ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-ausente/) |
+| **Get License** | [Request Licensing for Tu aroma ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-ausente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aroma ausente me tiene perdiendo la razón
+> Buscando en la disco la dueña de mi tentación
+> Una mirada tuya y se enciende mi corazón
+> Nena, tú y yo bailando, esa es mi única visión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
