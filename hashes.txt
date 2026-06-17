@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aroma ausente
+
+This log tracks the cryptographic history and versioning for the song **Tu aroma ausente** (tu-aroma-ausente).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T05:53:28.141680 | `v1` | `cc0050c5fdf3284921259966b0c1ef50cb830f0b722f0922d48779bf9d45f699` | `6512b916cc704bdc1ea8c12da8b27073aba0b430c338ec90840118e89078c261` | `2026-06-18_tu-aroma-ausente-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
